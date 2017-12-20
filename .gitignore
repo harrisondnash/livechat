@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# ds_store
+.DS_store
+
+node_modules
+
